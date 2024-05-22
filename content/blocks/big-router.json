@@ -1,0 +1,35 @@
+{
+  "type": "Router",
+  "name": "Ultra-Router",
+  "health": 2450,
+  "speed": 20.0,
+  "size": 8,
+  "consumes": {
+    "power": 8.333333,
+  },
+  "requirements": [
+      {
+        "item": "copper",
+        "amount": 700
+      },
+      {
+        "item": "graphite",
+        "amount": 500
+      }      ,
+      {
+        "item": "silicon",
+        "amount": 450
+      },
+      {
+        "item": "titanium",
+        "amount": 350
+      },
+    {
+      "item": "surge-alloy",
+      "amount": 250
+    }
+ 
+    ],
+    "category": "distribution",
+    "research": "router"
+}
