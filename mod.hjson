@@ -2,6 +2,7 @@
     displayName: Ultra-Router
     repo: CamoGekko/big-router
     name: big-router
+    icon: icon.png
 
     author:
         '''
