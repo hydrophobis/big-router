@@ -4,6 +4,7 @@
   "health": 2450,
   "speed": 20.0,
   "size": 8,
+    "drawer": {"type": "DrawDefault"},
   "consumes": {
     "power": 8.333333,
   },
