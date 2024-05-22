@@ -2,7 +2,7 @@
   "type": "Router",
   "name": "Ultra-Router",
   "health": 2450,
-  "speed": 20.0,
+  "speed": 2000.0,
   "size": 8,
     "drawer": {"type": "DrawDefault"},
   "consumes": {
