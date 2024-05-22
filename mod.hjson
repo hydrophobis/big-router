@@ -1,0 +1,23 @@
+{
+    displayName: Ultra-Router
+    repo: CamoGekko/big-router
+    name: big-router
+
+    author:
+        '''
+        
+        [purple]CamoGekko
+
+        '''
+
+    description:
+        '''
+        
+        Requested by the reddit user u/SpecifyOrdinary7864 
+
+        '''
+
+    subtitle: ""
+    minGameVersion: 144.3
+    version: "1.0"
+}
